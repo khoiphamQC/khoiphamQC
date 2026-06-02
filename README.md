@@ -44,12 +44,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khoiphamQC&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoiphamQC&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=khoiphamQC&theme=radical&hide_border=true&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=khoiphamQC&theme=radical&hide_border=true&layout=compact"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khoiphamQC&theme=tokyonight"/>
+  <img width="700" src="https://streak-stats.demolab.com?user=khoiphamQC&theme=radical&hide_border=true"/>
 </p>
 
 # 🏆 GitHub Trophies
