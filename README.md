@@ -1,3 +1,32 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFB800&height=220&section=header&text=Khoi%20Pham&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Automation%20Tester%20|%20Cybersecurity%20Student&descAlignY=60" />
+</p>
+
+<h1 align="center">👋 Hi, I'm Khoi Pham</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=QA+Engineer;Automation+Testing+Enthusiast;Cybersecurity+Student;Learning+Rust+%F0%9F%A6%80;Always+Learning+New+Things" />
+</p>
+
+## 🚀 About Me
+
+```yaml
+name: Khoi Pham
+role: QA Engineer / Tester
+location: Ho Chi Minh City, Vietnam
+learning:
+  - Rust
+  - Mobile Pentesting
+  - Playwright
+  - CI/CD
+focus:
+  - Test Automation
+  - API Testing
+  - Security Testing
+  - Performance Testing
+```
+
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Phạm Khôi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khoigraal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Khoi Pham) 
 
@@ -13,5 +42,13 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=khoiphamQC&icon=5&color=13)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khoiphamQC&color=yellow"/>
+</p>
+
+<p align="center">
+  <img src="footer.svg" width="100%">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
