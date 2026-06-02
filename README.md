@@ -16,11 +16,6 @@ name: Khoi Pham
 role: QA Engineer / Tester
 location: Ho Chi Minh City, Vietnam
 learning:
-  - Rust
-  - Mobile Pentesting
-  - Playwright
-  - CI/CD
-focus:
   - Test Automation
   - API Testing
   - Security Testing
